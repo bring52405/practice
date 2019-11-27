@@ -12,4 +12,4 @@ print(mo.group(1) + '\t' + mo1.group(1))
 print(bool(mo))
 print(bool(mo1))
 
-batRegex2 = re.compile(r'Bat(wo)?man')
+batRegex2 = re.compile(r'Bat(wom)?an')
