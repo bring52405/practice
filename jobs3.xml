@@ -1,0 +1,877 @@
+<?xml version='1.0'?>
+<job_info  xmlns:xsd="http://arc.liv.ac.uk/repos/darcs/sge/source/dist/util/resources/schemas/qstat/qstat.xsd">
+  <queue_info>
+    <job_list state="running">
+      <JB_job_number>7451948</JB_job_number>
+      <JAT_prio>0.25658</JAT_prio>
+      <JB_name>CASE19.sh</JB_name>
+      <JB_owner>pratdas</JB_owner>
+      <state>r</state>
+      <JAT_start_time>2019-04-04T22:12:56</JAT_start_time>
+      <queue_name>UI@argon-lc-i18-21.hpc</queue_name>
+      <slots>56</slots>
+    </job_list>
+    <job_list state="running">
+      <JB_job_number>6148294</JB_job_number>
+      <JAT_prio>0.32731</JAT_prio>
+      <JB_name>Ebola_time0</JB_name>
+      <JB_owner>jiangcxu</JB_owner>
+      <state>r</state>
+      <JAT_start_time>2019-02-28T23:27:30</JAT_start_time>
+      <queue_name>UI@argon-lc-i18-20.hpc</queue_name>
+      <slots>56</slots>
+    </job_list>
+    <job_list state="running">
+      <JB_job_number>7082110</JB_job_number>
+      <JAT_prio>0.21666</JAT_prio>
+      <JB_name>script_Restricted</JB_name>
+      <JB_owner>sjrd</JB_owner>
+      <state>r</state>
+      <JAT_start_time>2019-03-30T21:11:33</JAT_start_time>
+      <queue_name>UI@argon-lc-i18-19.hpc</queue_name>
+      <slots>40</slots>
+    </job_list>
+    <job_list state="running">
+      <JB_job_number>7210077</JB_job_number>
+      <JAT_prio>0.17826</JAT_prio>
+      <JB_name>corr_7.txt</JB_name>
+      <JB_owner>awang4</JB_owner>
+      <state>r</state>
+      <JAT_start_time>2019-04-02T01:37:25</JAT_start_time>
+      <queue_name>UI@argon-lc-i18-19.hpc</queue_name>
+      <slots>16</slots>
+    </job_list>
+    <job_list state="running">
+      <JB_job_number>6813645</JB_job_number>
+      <JAT_prio>0.28786</JAT_prio>
+      <JB_name>nvt-mix</JB_name>
+      <JB_owner>whapuarachchigedona</JB_owner>
+      <state>r</state>
+      <JAT_start_time>2019-03-20T03:02:33</JAT_start_time>
+      <queue_name>UI@argon-lc-i18-18.hpc</queue_name>
+      <slots>56</slots>
+    </job_list>
+    <job_list state="running">
+      <JB_job_number>7440811</JB_job_number>
+      <JAT_prio>0.20676</JAT_prio>
+      <JB_name>NVT-octyl-7ns</JB_name>
+      <JB_owner>amith</JB_owner>
+      <state>r</state>
+      <JAT_start_time>2019-04-05T04:35:13</JAT_start_time>
+      <queue_name>UI@argon-lc-i18-17.hpc</queue_name>
+      <slots>56</slots>
+    </job_list>
+    <job_list state="running">
+      <JB_job_number>7440813</JB_job_number>
+      <JAT_prio>0.20676</JAT_prio>
+      <JB_name>NVT-octyl-7ns</JB_name>
+      <JB_owner>amith</JB_owner>
+      <state>r</state>
+      <JAT_start_time>2019-04-05T06:14:12</JAT_start_time>
+      <queue_name>UI@argon-lc-g14-29.hpc</queue_name>
+      <slots>56</slots>
+    </job_list>
+    <job_list state="running">
+      <JB_job_number>7158611</JB_job_number>
+      <JAT_prio>1.01304</JAT_prio>
+      <JB_name>Remote</JB_name>
+      <JB_owner>coryedwards</JB_owner>
+      <state>r</state>
+      <JAT_start_time>2019-04-01T07:31:39</JAT_start_time>
+      <queue_name>UI@argon-lc-g14-23.hpc</queue_name>
+      <slots>8</slots>
+    </job_list>
+    <job_list state="running">
+      <JB_job_number>7519110</JB_job_number>
+      <JAT_prio>1.00501</JAT_prio>
+      <JB_name>QLOGIN</JB_name>
+      <JB_owner>twilliams1</JB_owner>
+      <state>r</state>
+      <JAT_start_time>2019-04-05T09:43:43</JAT_start_time>
+      <queue_name>UI@argon-lc-g14-23.hpc</queue_name>
+      <slots>48</slots>
+    </job_list>
+    <job_list state="running">
+      <JB_job_number>6440750</JB_job_number>
+      <JAT_prio>1.06151</JAT_prio>
+      <JB_name>AdamR_Rsim1.job</JB_name>
+      <JB_owner>reeger</JB_owner>
+      <state>r</state>
+      <JAT_start_time>2019-03-07T13:59:17</JAT_start_time>
+      <queue_name>UI@argon-lc-g11-28.hpc</queue_name>
+      <slots>1</slots>
+    </job_list>
+    <job_list state="running">
+      <JB_job_number>6460450</JB_job_number>
+      <JAT_prio>0.10831</JAT_prio>
+      <JB_name>xcjob170_3v5d.job</JB_name>
+      <JB_owner>xchen126</JB_owner>
+      <state>r</state>
+      <JAT_start_time>2019-03-08T00:01:30</JAT_start_time>
+      <queue_name>UI@argon-lc-g11-28.hpc</queue_name>
+      <slots>1</slots>
+    </job_list>
+    <job_list state="running">
+      <JB_job_number>6460752</JB_job_number>
+      <JAT_prio>0.10831</JAT_prio>
+      <JB_name>xcjob170_3v15d.job</JB_name>
+      <JB_owner>xchen126</JB_owner>
+      <state>r</state>
+      <JAT_start_time>2019-03-08T00:03:15</JAT_start_time>
+      <queue_name>UI@argon-lc-g11-28.hpc</queue_name>
+      <slots>1</slots>
+    </job_list>
+    <job_list state="running">
+      <JB_job_number>6460947</JB_job_number>
+      <JAT_prio>0.10830</JAT_prio>
+      <JB_name>xcjob170_4v5d.job</JB_name>
+      <JB_owner>xchen126</JB_owner>
+      <state>r</state>
+      <JAT_start_time>2019-03-08T00:04:15</JAT_start_time>
+      <queue_name>UI@argon-lc-g11-28.hpc</queue_name>
+      <slots>1</slots>
+    </job_list>
+    <job_list state="running">
+      <JB_job_number>6481588</JB_job_number>
+      <JAT_prio>0.55908</JAT_prio>
+      <JB_name>March</JB_name>
+      <JB_owner>xli176</JB_owner>
+      <state>r</state>
+      <JAT_start_time>2019-03-08T21:11:36</JAT_start_time>
+      <queue_name>UI@argon-lc-g11-28.hpc</queue_name>
+      <slots>34</slots>
+    </job_list>
+    <job_list state="running">
+      <JB_job_number>6812294</JB_job_number>
+      <JAT_prio>1.03804</JAT_prio>
+      <JB_name>group_mriqc.job</JB_name>
+      <JB_owner>jdkent</JB_owner>
+      <state>r</state>
+      <JAT_start_time>2019-03-19T15:04:49</JAT_start_time>
+      <queue_name>UI@argon-lc-g11-28.hpc</queue_name>
+      <slots>4</slots>
+    </job_list>
+    <job_list state="running">
+      <JB_job_number>7517207</JB_job_number>
+      <JAT_prio>0.10504</JAT_prio>
+      <JB_name>sub-5007_ses-3261xe72p7_site-00201_structuralPrep.job</JB_name>
+      <JB_owner>axelsone</JB_owner>
+      <state>r</state>
+      <JAT_start_time>2019-04-05T09:20:12</JAT_start_time>
+      <queue_name>UI@argon-lc-g11-28.hpc</queue_name>
+      <slots>14</slots>
+    </job_list>
+    <job_list state="running">
+      <JB_job_number>7451985</JB_job_number>
+      <JAT_prio>0.25658</JAT_prio>
+      <JB_name>CASE20.sh</JB_name>
+      <JB_owner>pratdas</JB_owner>
+      <state>r</state>
+      <JAT_start_time>2019-04-04T23:52:26</JAT_start_time>
+      <queue_name>UI@argon-lc-g11-19.hpc</queue_name>
+      <slots>56</slots>
+    </job_list>
+    <job_list state="running">
+      <JB_job_number>7059403</JB_job_number>
+      <JAT_prio>0.22264</JAT_prio>
+      <JB_name>NVT-octyl-100ns</JB_name>
+      <JB_owner>amith</JB_owner>
+      <state>r</state>
+      <JAT_start_time>2019-03-27T10:26:38</JAT_start_time>
+      <queue_name>UI@argon-lc-g11-18.hpc</queue_name>
+      <slots>224</slots>
+    </job_list>
+    <job_list state="running">
+      <JB_job_number>7064460</JB_job_number>
+      <JAT_prio>0.22031</JAT_prio>
+      <JB_name>script_Restricted</JB_name>
+      <JB_owner>sjrd</JB_owner>
+      <state>r</state>
+      <JAT_start_time>2019-03-28T16:01:14</JAT_start_time>
+      <queue_name>UI@argon-lc-g11-17.hpc</queue_name>
+      <slots>56</slots>
+    </job_list>
+    <job_list state="running">
+      <JB_job_number>7074646</JB_job_number>
+      <JAT_prio>0.12960</JAT_prio>
+      <JB_name>fciqmc5-14e</JB_name>
+      <JB_owner>tmihm</JB_owner>
+      <state>r</state>
+      <JAT_start_time>2019-03-29T15:48:17</JAT_start_time>
+      <queue_name>UI@argon-lc-g11-12.hpc</queue_name>
+      <slots>56</slots>
+    </job_list>
+    <job_list state="running">
+      <JB_job_number>6148308</JB_job_number>
+      <JAT_prio>0.32731</JAT_prio>
+      <JB_name>Ebola_time0</JB_name>
+      <JB_owner>jiangcxu</JB_owner>
+      <state>r</state>
+      <JAT_start_time>2019-03-03T22:22:07</JAT_start_time>
+      <queue_name>UI@argon-lc-g11-04.hpc</queue_name>
+      <slots>56</slots>
+    </job_list>
+    <job_list state="running">
+      <JB_job_number>6880888</JB_job_number>
+      <JAT_prio>0.07966</JAT_prio>
+      <JB_name>dwt-dbr-9131</JB_name>
+      <JB_owner>wdai11</JB_owner>
+      <state>r</state>
+      <JAT_start_time>2019-03-21T12:48:29</JAT_start_time>
+      <queue_name>UI@argon-lc-g14-30.hpc</queue_name>
+      <slots>2</slots>
+    </job_list>
+    <job_list state="running">
+      <JB_job_number>7075027</JB_job_number>
+      <JAT_prio>0.51833</JAT_prio>
+      <JB_name>april</JB_name>
+      <JB_owner>xli176</JB_owner>
+      <state>r</state>
+      <JAT_start_time>2019-03-29T14:58:44</JAT_start_time>
+      <queue_name>UI@argon-lc-g14-30.hpc</queue_name>
+      <slots>36</slots>
+    </job_list>
+    <job_list state="running">
+      <JB_job_number>7517209</JB_job_number>
+      <JAT_prio>0.10504</JAT_prio>
+      <JB_name>sub-5014_ses-32abad5dbl_site-00201_structuralPrep.job</JB_name>
+      <JB_owner>axelsone</JB_owner>
+      <state>r</state>
+      <JAT_start_time>2019-04-05T09:20:12</JAT_start_time>
+      <queue_name>UI@argon-lc-g14-30.hpc</queue_name>
+      <slots>14</slots>
+    </job_list>
+    <job_list state="running">
+      <JB_job_number>7465533</JB_job_number>
+      <JAT_prio>1.00628</JAT_prio>
+      <JB_name>QLOGIN</JB_name>
+      <JB_owner>cruzcorchadoj</JB_owner>
+      <state>r</state>
+      <JAT_start_time>2019-04-04T18:13:20</JAT_start_time>
+      <queue_name>UI@argon-itf-cf52-33.hpc</queue_name>
+      <slots>32</slots>
+    </job_list>
+    <job_list state="running">
+      <JB_job_number>7179379</JB_job_number>
+      <JAT_prio>0.11241</JAT_prio>
+      <JB_name>GLU-vac-test</JB_name>
+      <JB_owner>andthiel</JB_owner>
+      <state>r</state>
+      <JAT_start_time>2019-04-01T15:18:24</JAT_start_time>
+      <queue_name>UI@argon-itf-cf51-33.hpc</queue_name>
+      <slots>32</slots>
+    </job_list>
+    <job_list state="running">
+      <JB_job_number>7179387</JB_job_number>
+      <JAT_prio>0.11240</JAT_prio>
+      <JB_name>ASP-solv-ttOSRW</JB_name>
+      <JB_owner>andthiel</JB_owner>
+      <state>r</state>
+      <JAT_start_time>2019-04-01T15:26:30</JAT_start_time>
+      <queue_name>UI@argon-itf-cf49-34.hpc</queue_name>
+      <slots>32</slots>
+    </job_list>
+    <job_list state="running">
+      <JB_job_number>7179390</JB_job_number>
+      <JAT_prio>0.11239</JAT_prio>
+      <JB_name>GLU-solv-ttOSRW</JB_name>
+      <JB_owner>andthiel</JB_owner>
+      <state>r</state>
+      <JAT_start_time>2019-04-01T15:29:45</JAT_start_time>
+      <queue_name>UI@argon-itf-cf49-33.hpc</queue_name>
+      <slots>32</slots>
+    </job_list>
+    <job_list state="running">
+      <JB_job_number>7179434</JB_job_number>
+      <JAT_prio>0.11237</JAT_prio>
+      <JB_name>LYS-solv-ttOSRW</JB_name>
+      <JB_owner>andthiel</JB_owner>
+      <state>r</state>
+      <JAT_start_time>2019-04-01T15:48:59</JAT_start_time>
+      <queue_name>UI@argon-itf-cf49-32.hpc</queue_name>
+      <slots>32</slots>
+    </job_list>
+    <job_list state="running">
+      <JB_job_number>6781531</JB_job_number>
+      <JAT_prio>0.37327</JAT_prio>
+      <JB_name>ha.03</JB_name>
+      <JB_owner>skim139</JB_owner>
+      <state>r</state>
+      <JAT_start_time>2019-03-18T14:43:20</JAT_start_time>
+      <queue_name>UI@argon-itf-cf48-34.hpc</queue_name>
+      <slots>12</slots>
+    </job_list>
+    <job_list state="running">
+      <JB_job_number>7061083</JB_job_number>
+      <JAT_prio>0.06703</JAT_prio>
+      <JB_name>dwt-metal-8243</JB_name>
+      <JB_owner>wdai11</JB_owner>
+      <state>r</state>
+      <JAT_start_time>2019-03-27T23:10:09</JAT_start_time>
+      <queue_name>UI@argon-itf-cf48-34.hpc</queue_name>
+      <slots>20</slots>
+    </job_list>
+    <job_list state="running">
+      <JB_job_number>7179437</JB_job_number>
+      <JAT_prio>0.11236</JAT_prio>
+      <JB_name>HIS-solv-ttOSRW</JB_name>
+      <JB_owner>andthiel</JB_owner>
+      <state>r</state>
+      <JAT_start_time>2019-04-01T15:52:14</JAT_start_time>
+      <queue_name>UI@argon-itf-cf48-33.hpc</queue_name>
+      <slots>32</slots>
+    </job_list>
+    <job_list state="running">
+      <JB_job_number>7441834</JB_job_number>
+      <JAT_prio>0.14961</JAT_prio>
+      <JB_name>run.job</JB_name>
+      <JB_owner>bscheiner</JB_owner>
+      <state>r</state>
+      <JAT_start_time>2019-04-04T12:27:36</JAT_start_time>
+      <queue_name>UI@argon-itf-cf46-32.hpc</queue_name>
+      <slots>32</slots>
+    </job_list>
+    <job_list state="running">
+      <JB_job_number>7441985</JB_job_number>
+      <JAT_prio>0.14961</JAT_prio>
+      <JB_name>run.job</JB_name>
+      <JB_owner>bscheiner</JB_owner>
+      <state>r</state>
+      <JAT_start_time>2019-04-04T12:28:21</JAT_start_time>
+      <queue_name>UI@argon-itf-cf46-31.hpc</queue_name>
+      <slots>32</slots>
+    </job_list>
+    <job_list state="running">
+      <JB_job_number>7442066</JB_job_number>
+      <JAT_prio>0.14961</JAT_prio>
+      <JB_name>run.job</JB_name>
+      <JB_owner>bscheiner</JB_owner>
+      <state>r</state>
+      <JAT_start_time>2019-04-04T12:29:36</JAT_start_time>
+      <queue_name>UI@argon-itf-cf46-26.hpc</queue_name>
+      <slots>32</slots>
+    </job_list>
+    <job_list state="running">
+      <JB_job_number>7442068</JB_job_number>
+      <JAT_prio>0.14961</JAT_prio>
+      <JB_name>run.job</JB_name>
+      <JB_owner>bscheiner</JB_owner>
+      <state>r</state>
+      <JAT_start_time>2019-04-04T12:30:21</JAT_start_time>
+      <queue_name>UI@argon-itf-cf45-34.hpc</queue_name>
+      <slots>32</slots>
+    </job_list>
+    <job_list state="running">
+      <JB_job_number>7442501</JB_job_number>
+      <JAT_prio>0.14959</JAT_prio>
+      <JB_name>run.job</JB_name>
+      <JB_owner>bscheiner</JB_owner>
+      <state>r</state>
+      <JAT_start_time>2019-04-04T12:38:20</JAT_start_time>
+      <queue_name>UI@argon-itf-cf45-29.hpc</queue_name>
+      <slots>32</slots>
+    </job_list>
+    <job_list state="running">
+      <JB_job_number>7328291</JB_job_number>
+      <JAT_prio>0.20902</JAT_prio>
+      <JB_name>script_Restricted</JB_name>
+      <JB_owner>sjrd</JB_owner>
+      <state>r</state>
+      <JAT_start_time>2019-04-03T10:19:47</JAT_start_time>
+      <queue_name>UI@argon-lc-g11-16.hpc</queue_name>
+      <slots>45</slots>
+    </job_list>
+    <job_list state="running">
+      <JB_job_number>7516889</JB_job_number>
+      <JAT_prio>0.33839</JAT_prio>
+      <JB_name>myscript.sh</JB_name>
+      <JB_owner>atiwr</JB_owner>
+      <state>r</state>
+      <JAT_start_time>2019-04-05T09:12:27</JAT_start_time>
+      <queue_name>UI@argon-lc-g11-16.hpc</queue_name>
+      <slots>6</slots>
+    </job_list>
+    <job_list state="running">
+      <JB_job_number>5098624</JB_job_number>
+      <JAT_prio>0.33153</JAT_prio>
+      <JB_name>UKBB_20218</JB_name>
+      <JB_owner>tkoomar</JB_owner>
+      <state>r</state>
+      <JAT_start_time>2019-03-04T01:41:56</JAT_start_time>
+      <queue_name>UI@argon-lc-g11-27.hpc</queue_name>
+      <slots>4</slots>
+    </job_list>
+    <job_list state="running">
+      <JB_job_number>6670163</JB_job_number>
+      <JAT_prio>0.38112</JAT_prio>
+      <JB_name>ha.01</JB_name>
+      <JB_owner>skim139</JB_owner>
+      <state>r</state>
+      <JAT_start_time>2019-03-14T14:43:11</JAT_start_time>
+      <queue_name>UI@argon-lc-g11-27.hpc</queue_name>
+      <slots>12</slots>
+    </job_list>
+    <job_list state="running">
+      <JB_job_number>6670164</JB_job_number>
+      <JAT_prio>0.38112</JAT_prio>
+      <JB_name>ha.02</JB_name>
+      <JB_owner>skim139</JB_owner>
+      <state>r</state>
+      <JAT_start_time>2019-03-14T14:43:26</JAT_start_time>
+      <queue_name>UI@argon-lc-g11-27.hpc</queue_name>
+      <slots>12</slots>
+    </job_list>
+    <job_list state="running">
+      <JB_job_number>6880887</JB_job_number>
+      <JAT_prio>0.07966</JAT_prio>
+      <JB_name>dwt-dbr-9121</JB_name>
+      <JB_owner>wdai11</JB_owner>
+      <state>r</state>
+      <JAT_start_time>2019-03-21T12:48:29</JAT_start_time>
+      <queue_name>UI@argon-lc-g11-27.hpc</queue_name>
+      <slots>2</slots>
+    </job_list>
+    <job_list state="running">
+      <JB_job_number>7063456</JB_job_number>
+      <JAT_prio>0.06605</JAT_prio>
+      <JB_name>dwt-metal-8247</JB_name>
+      <JB_owner>wdai11</JB_owner>
+      <state>r</state>
+      <JAT_start_time>2019-03-28T11:10:14</JAT_start_time>
+      <queue_name>UI@argon-lc-g11-27.hpc</queue_name>
+      <slots>20</slots>
+    </job_list>
+    <job_list state="running">
+      <JB_job_number>7338137</JB_job_number>
+      <JAT_prio>0.15173</JAT_prio>
+      <JB_name>CongProg</JB_name>
+      <JB_owner>hxiong</JB_owner>
+      <state>r</state>
+      <JAT_start_time>2019-04-03T10:31:22</JAT_start_time>
+      <queue_name>UI@argon-itf-cf45-27.hpc</queue_name>
+      <slots>14</slots>
+    </job_list>
+    <job_list state="running">
+      <JB_job_number>7517210</JB_job_number>
+      <JAT_prio>0.10504</JAT_prio>
+      <JB_name>sub-S006_ses-325vw42oo2_site-00201_structuralPrep.job</JB_name>
+      <JB_owner>axelsone</JB_owner>
+      <state>r</state>
+      <JAT_start_time>2019-04-05T09:20:12</JAT_start_time>
+      <queue_name>UI@argon-itf-cf45-27.hpc</queue_name>
+      <slots>14</slots>
+    </job_list>
+    <job_list state="running">
+      <JB_job_number>7338138</JB_job_number>
+      <JAT_prio>0.15173</JAT_prio>
+      <JB_name>CongProg</JB_name>
+      <JB_owner>hxiong</JB_owner>
+      <state>r</state>
+      <JAT_start_time>2019-04-03T10:31:37</JAT_start_time>
+      <queue_name>UI@argon-itf-cf45-25.hpc</queue_name>
+      <slots>14</slots>
+    </job_list>
+    <job_list state="running">
+      <JB_job_number>7517212</JB_job_number>
+      <JAT_prio>0.10504</JAT_prio>
+      <JB_name>sub-S008_ses-326xs6m5sm_site-00201_structuralPrep.job</JB_name>
+      <JB_owner>axelsone</JB_owner>
+      <state>r</state>
+      <JAT_start_time>2019-04-05T09:20:12</JAT_start_time>
+      <queue_name>UI@argon-itf-cf45-25.hpc</queue_name>
+      <slots>14</slots>
+    </job_list>
+    <job_list state="running">
+      <JB_job_number>5295736</JB_job_number>
+      <JAT_prio>1.07949</JAT_prio>
+      <JB_name>ArielRJob2</JB_name>
+      <JB_owner>aaloe</JB_owner>
+      <state>r</state>
+      <JAT_start_time>2019-02-26T10:12:20</JAT_start_time>
+      <queue_name>UI@argon-itf-cf46-20.hpc</queue_name>
+      <slots>32</slots>
+    </job_list>
+    <job_list state="running">
+      <JB_job_number>7061189</JB_job_number>
+      <JAT_prio>0.06695</JAT_prio>
+      <JB_name>dwt-metal-8246</JB_name>
+      <JB_owner>wdai11</JB_owner>
+      <state>r</state>
+      <JAT_start_time>2019-03-28T00:10:24</JAT_start_time>
+      <queue_name>UI@argon-lc-d7-21.hpc</queue_name>
+      <slots>20</slots>
+    </job_list>
+    <job_list state="running">
+      <JB_job_number>7457410</JB_job_number>
+      <JAT_prio>0.50646</JAT_prio>
+      <JB_name>format_gnomad_egs</JB_name>
+      <JB_owner>rmarini</JB_owner>
+      <state>r</state>
+      <JAT_start_time>2019-04-04T16:01:49</JAT_start_time>
+      <queue_name>UI@argon-lc-d7-21.hpc</queue_name>
+      <slots>1</slots>
+    </job_list>
+    <job_list state="running">
+      <JB_job_number>7517219</JB_job_number>
+      <JAT_prio>0.10504</JAT_prio>
+      <JB_name>sub-S012_ses-328zw6onp9_site-00201_structuralPrep.job</JB_name>
+      <JB_owner>axelsone</JB_owner>
+      <state>r</state>
+      <JAT_start_time>2019-04-05T09:20:12</JAT_start_time>
+      <queue_name>UI@argon-lc-d7-21.hpc</queue_name>
+      <slots>14</slots>
+    </job_list>
+  </queue_info>
+  <job_info>
+    <job_list state="pending">
+      <JB_job_number>7355535</JB_job_number>
+      <JAT_prio>0.12394</JAT_prio>
+      <JB_name>a1554321125_chimericHIC003_S2_L001_001.fastq.gz</JB_name>
+      <JB_owner>cruzcorchadoj</JB_owner>
+      <state>Eqw</state>
+      <JB_submission_time>2019-04-03T14:52:07</JB_submission_time>
+      <queue_name></queue_name>
+      <slots>1</slots>
+    </job_list>
+    <job_list state="pending">
+      <JB_job_number>7518636</JB_job_number>
+      <JAT_prio>0.08194</JAT_prio>
+      <JB_name>ann.sh</JB_name>
+      <JB_owner>hshah2</JB_owner>
+      <state>qw</state>
+      <JB_submission_time>2019-04-05T09:36:43</JB_submission_time>
+      <queue_name></queue_name>
+      <slots>1</slots>
+    </job_list>
+    <job_list state="pending">
+      <JB_job_number>7517225</JB_job_number>
+      <JAT_prio>0.02602</JAT_prio>
+      <JB_name>sub-S018_ses-35foj7mg20_site-00201_structuralPrep.job</JB_name>
+      <JB_owner>axelsone</JB_owner>
+      <state>qw</state>
+      <JB_submission_time>2019-04-05T09:20:09</JB_submission_time>
+      <queue_name></queue_name>
+      <slots>14</slots>
+    </job_list>
+    <job_list state="pending">
+      <JB_job_number>7517227</JB_job_number>
+      <JAT_prio>0.02427</JAT_prio>
+      <JB_name>sub-S023_ses-35fqvqm239_site-00201_structuralPrep.job</JB_name>
+      <JB_owner>axelsone</JB_owner>
+      <state>qw</state>
+      <JB_submission_time>2019-04-05T09:20:09</JB_submission_time>
+      <queue_name></queue_name>
+      <slots>14</slots>
+    </job_list>
+    <job_list state="pending">
+      <JB_job_number>7517228</JB_job_number>
+      <JAT_prio>0.02279</JAT_prio>
+      <JB_name>sub-S029_ses-35hr3wd8jq_site-00201_structuralPrep.job</JB_name>
+      <JB_owner>axelsone</JB_owner>
+      <state>qw</state>
+      <JB_submission_time>2019-04-05T09:20:09</JB_submission_time>
+      <queue_name></queue_name>
+      <slots>14</slots>
+    </job_list>
+    <job_list state="pending">
+      <JB_job_number>7517230</JB_job_number>
+      <JAT_prio>0.02153</JAT_prio>
+      <JB_name>sub-S030_ses-35htfod2ev_site-00201_structuralPrep.job</JB_name>
+      <JB_owner>axelsone</JB_owner>
+      <state>qw</state>
+      <JB_submission_time>2019-04-05T09:20:10</JB_submission_time>
+      <queue_name></queue_name>
+      <slots>14</slots>
+    </job_list>
+    <job_list state="pending">
+      <JB_job_number>7440815</JB_job_number>
+      <JAT_prio>0.01375</JAT_prio>
+      <JB_name>NVT-octyl-7ns</JB_name>
+      <JB_owner>amith</JB_owner>
+      <state>qw</state>
+      <JB_submission_time>2019-04-04T12:22:55</JB_submission_time>
+      <queue_name></queue_name>
+      <slots>56</slots>
+    </job_list>
+    <job_list state="pending">
+      <JB_job_number>7440817</JB_job_number>
+      <JAT_prio>0.01355</JAT_prio>
+      <JB_name>NVT-octyl-7ns</JB_name>
+      <JB_owner>amith</JB_owner>
+      <state>qw</state>
+      <JB_submission_time>2019-04-04T12:22:55</JB_submission_time>
+      <queue_name></queue_name>
+      <slots>56</slots>
+    </job_list>
+    <job_list state="pending">
+      <JB_job_number>7440819</JB_job_number>
+      <JAT_prio>0.01335</JAT_prio>
+      <JB_name>NVT-octyl-7ns</JB_name>
+      <JB_owner>amith</JB_owner>
+      <state>qw</state>
+      <JB_submission_time>2019-04-04T12:22:55</JB_submission_time>
+      <queue_name></queue_name>
+      <slots>56</slots>
+    </job_list>
+    <job_list state="pending">
+      <JB_job_number>7440821</JB_job_number>
+      <JAT_prio>0.01317</JAT_prio>
+      <JB_name>NVT-octyl-7ns</JB_name>
+      <JB_owner>amith</JB_owner>
+      <state>qw</state>
+      <JB_submission_time>2019-04-04T12:22:55</JB_submission_time>
+      <queue_name></queue_name>
+      <slots>56</slots>
+    </job_list>
+    <job_list state="pending">
+      <JB_job_number>7440824</JB_job_number>
+      <JAT_prio>0.01300</JAT_prio>
+      <JB_name>NVT-octyl-7ns</JB_name>
+      <JB_owner>amith</JB_owner>
+      <state>qw</state>
+      <JB_submission_time>2019-04-04T12:22:56</JB_submission_time>
+      <queue_name></queue_name>
+      <slots>56</slots>
+    </job_list>
+    <job_list state="pending">
+      <JB_job_number>7440826</JB_job_number>
+      <JAT_prio>0.01283</JAT_prio>
+      <JB_name>NVT-octyl-7ns</JB_name>
+      <JB_owner>amith</JB_owner>
+      <state>qw</state>
+      <JB_submission_time>2019-04-04T12:22:56</JB_submission_time>
+      <queue_name></queue_name>
+      <slots>56</slots>
+    </job_list>
+    <job_list state="pending">
+      <JB_job_number>7440828</JB_job_number>
+      <JAT_prio>0.01268</JAT_prio>
+      <JB_name>NVT-octyl-7ns</JB_name>
+      <JB_owner>amith</JB_owner>
+      <state>qw</state>
+      <JB_submission_time>2019-04-04T12:22:56</JB_submission_time>
+      <queue_name></queue_name>
+      <slots>56</slots>
+    </job_list>
+    <job_list state="pending">
+      <JB_job_number>7440830</JB_job_number>
+      <JAT_prio>0.01253</JAT_prio>
+      <JB_name>NVT-octyl-7ns</JB_name>
+      <JB_owner>amith</JB_owner>
+      <state>qw</state>
+      <JB_submission_time>2019-04-04T12:22:56</JB_submission_time>
+      <queue_name></queue_name>
+      <slots>56</slots>
+    </job_list>
+    <job_list state="pending">
+      <JB_job_number>5098625</JB_job_number>
+      <JAT_prio>0.00000</JAT_prio>
+      <JB_name>UKBB_20219</JB_name>
+      <JB_owner>tkoomar</JB_owner>
+      <state>hqw</state>
+      <JB_submission_time>2019-02-25T09:16:58</JB_submission_time>
+      <queue_name></queue_name>
+      <slots>4</slots>
+    </job_list>
+    <job_list state="pending">
+      <JB_job_number>5098626</JB_job_number>
+      <JAT_prio>0.00000</JAT_prio>
+      <JB_name>UKBB_20225</JB_name>
+      <JB_owner>tkoomar</JB_owner>
+      <state>hqw</state>
+      <JB_submission_time>2019-02-25T09:16:59</JB_submission_time>
+      <queue_name></queue_name>
+      <slots>4</slots>
+    </job_list>
+    <job_list state="pending">
+      <JB_job_number>5098627</JB_job_number>
+      <JAT_prio>0.00000</JAT_prio>
+      <JB_name>UKBB_20227</JB_name>
+      <JB_owner>tkoomar</JB_owner>
+      <state>hqw</state>
+      <JB_submission_time>2019-02-25T09:16:59</JB_submission_time>
+      <queue_name></queue_name>
+      <slots>4</slots>
+    </job_list>
+    <job_list state="pending">
+      <JB_job_number>5098628</JB_job_number>
+      <JAT_prio>0.00000</JAT_prio>
+      <JB_name>UKBB_20249</JB_name>
+      <JB_owner>tkoomar</JB_owner>
+      <state>hqw</state>
+      <JB_submission_time>2019-02-25T09:16:59</JB_submission_time>
+      <queue_name></queue_name>
+      <slots>4</slots>
+    </job_list>
+    <job_list state="pending">
+      <JB_job_number>5098629</JB_job_number>
+      <JAT_prio>0.00000</JAT_prio>
+      <JB_name>UKBB_20250</JB_name>
+      <JB_owner>tkoomar</JB_owner>
+      <state>hqw</state>
+      <JB_submission_time>2019-02-25T09:16:59</JB_submission_time>
+      <queue_name></queue_name>
+      <slots>4</slots>
+    </job_list>
+    <job_list state="pending">
+      <JB_job_number>5098630</JB_job_number>
+      <JAT_prio>0.00000</JAT_prio>
+      <JB_name>UKBB_20251</JB_name>
+      <JB_owner>tkoomar</JB_owner>
+      <state>hqw</state>
+      <JB_submission_time>2019-02-25T09:16:59</JB_submission_time>
+      <queue_name></queue_name>
+      <slots>4</slots>
+    </job_list>
+    <job_list state="pending">
+      <JB_job_number>5098631</JB_job_number>
+      <JAT_prio>0.00000</JAT_prio>
+      <JB_name>UKBB_20252</JB_name>
+      <JB_owner>tkoomar</JB_owner>
+      <state>hqw</state>
+      <JB_submission_time>2019-02-25T09:16:59</JB_submission_time>
+      <queue_name></queue_name>
+      <slots>4</slots>
+    </job_list>
+    <job_list state="pending">
+      <JB_job_number>5098632</JB_job_number>
+      <JAT_prio>0.00000</JAT_prio>
+      <JB_name>UKBB_20253</JB_name>
+      <JB_owner>tkoomar</JB_owner>
+      <state>hqw</state>
+      <JB_submission_time>2019-02-25T09:17:00</JB_submission_time>
+      <queue_name></queue_name>
+      <slots>4</slots>
+    </job_list>
+    <job_list state="pending">
+      <JB_job_number>5098633</JB_job_number>
+      <JAT_prio>0.00000</JAT_prio>
+      <JB_name>UKBB_25747</JB_name>
+      <JB_owner>tkoomar</JB_owner>
+      <state>hqw</state>
+      <JB_submission_time>2019-02-25T09:17:00</JB_submission_time>
+      <queue_name></queue_name>
+      <slots>4</slots>
+    </job_list>
+    <job_list state="pending">
+      <JB_job_number>5098634</JB_job_number>
+      <JAT_prio>0.00000</JAT_prio>
+      <JB_name>UKBB_25748</JB_name>
+      <JB_owner>tkoomar</JB_owner>
+      <state>hqw</state>
+      <JB_submission_time>2019-02-25T09:17:00</JB_submission_time>
+      <queue_name></queue_name>
+      <slots>4</slots>
+    </job_list>
+    <job_list state="pending">
+      <JB_job_number>5098635</JB_job_number>
+      <JAT_prio>0.00000</JAT_prio>
+      <JB_name>UKBB_25749</JB_name>
+      <JB_owner>tkoomar</JB_owner>
+      <state>hqw</state>
+      <JB_submission_time>2019-02-25T09:17:00</JB_submission_time>
+      <queue_name></queue_name>
+      <slots>4</slots>
+    </job_list>
+    <job_list state="pending">
+      <JB_job_number>5098637</JB_job_number>
+      <JAT_prio>0.00000</JAT_prio>
+      <JB_name>UKBB_25750</JB_name>
+      <JB_owner>tkoomar</JB_owner>
+      <state>hqw</state>
+      <JB_submission_time>2019-02-25T09:17:00</JB_submission_time>
+      <queue_name></queue_name>
+      <slots>4</slots>
+    </job_list>
+    <job_list state="pending">
+      <JB_job_number>5098639</JB_job_number>
+      <JAT_prio>0.00000</JAT_prio>
+      <JB_name>UKBB_25751</JB_name>
+      <JB_owner>tkoomar</JB_owner>
+      <state>hqw</state>
+      <JB_submission_time>2019-02-25T09:17:01</JB_submission_time>
+      <queue_name></queue_name>
+      <slots>4</slots>
+    </job_list>
+    <job_list state="pending">
+      <JB_job_number>5098641</JB_job_number>
+      <JAT_prio>0.00000</JAT_prio>
+      <JB_name>UKBB_25752</JB_name>
+      <JB_owner>tkoomar</JB_owner>
+      <state>hqw</state>
+      <JB_submission_time>2019-02-25T09:17:01</JB_submission_time>
+      <queue_name></queue_name>
+      <slots>4</slots>
+    </job_list>
+    <job_list state="pending">
+      <JB_job_number>5098643</JB_job_number>
+      <JAT_prio>0.00000</JAT_prio>
+      <JB_name>UKBB_25753</JB_name>
+      <JB_owner>tkoomar</JB_owner>
+      <state>hqw</state>
+      <JB_submission_time>2019-02-25T09:17:01</JB_submission_time>
+      <queue_name></queue_name>
+      <slots>4</slots>
+    </job_list>
+    <job_list state="pending">
+      <JB_job_number>5098645</JB_job_number>
+      <JAT_prio>0.00000</JAT_prio>
+      <JB_name>UKBB_25754</JB_name>
+      <JB_owner>tkoomar</JB_owner>
+      <state>hqw</state>
+      <JB_submission_time>2019-02-25T09:17:01</JB_submission_time>
+      <queue_name></queue_name>
+      <slots>4</slots>
+    </job_list>
+    <job_list state="pending">
+      <JB_job_number>5098647</JB_job_number>
+      <JAT_prio>0.00000</JAT_prio>
+      <JB_name>UKBB_25755</JB_name>
+      <JB_owner>tkoomar</JB_owner>
+      <state>hqw</state>
+      <JB_submission_time>2019-02-25T09:17:01</JB_submission_time>
+      <queue_name></queue_name>
+      <slots>4</slots>
+    </job_list>
+    <job_list state="pending">
+      <JB_job_number>7355536</JB_job_number>
+      <JAT_prio>0.00000</JAT_prio>
+      <JB_name>a1554321125_check0</JB_name>
+      <JB_owner>cruzcorchadoj</JB_owner>
+      <state>hqw</state>
+      <JB_submission_time>2019-04-03T14:52:07</JB_submission_time>
+      <queue_name></queue_name>
+      <slots>1</slots>
+    </job_list>
+    <job_list state="pending">
+      <JB_job_number>7355539</JB_job_number>
+      <JAT_prio>0.00000</JAT_prio>
+      <JB_name>a1554321125_finallaunch</JB_name>
+      <JB_owner>cruzcorchadoj</JB_owner>
+      <state>hqw</state>
+      <JB_submission_time>2019-04-03T14:52:08</JB_submission_time>
+      <queue_name></queue_name>
+      <slots>1</slots>
+    </job_list>
+    <job_list state="pending">
+      <JB_job_number>7355540</JB_job_number>
+      <JAT_prio>0.00000</JAT_prio>
+      <JB_name>a1554321125_postprocessing</JB_name>
+      <JB_owner>cruzcorchadoj</JB_owner>
+      <state>hqw</state>
+      <JB_submission_time>2019-04-03T14:52:08</JB_submission_time>
+      <queue_name></queue_name>
+      <slots>1</slots>
+    </job_list>
+    <job_list state="pending">
+      <JB_job_number>7355541</JB_job_number>
+      <JAT_prio>0.00000</JAT_prio>
+      <JB_name>a1554321125_done</JB_name>
+      <JB_owner>cruzcorchadoj</JB_owner>
+      <state>hqw</state>
+      <JB_submission_time>2019-04-03T14:52:08</JB_submission_time>
+      <queue_name></queue_name>
+      <slots>1</slots>
+    </job_list>
+  </job_info>
+</job_info>

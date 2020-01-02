@@ -1,0 +1,115 @@
+<?xml version='1.0'?>
+<job_info  xmlns:xsd="http://arc.liv.ac.uk/repos/darcs/sge/source/dist/util/resources/schemas/qstat/qstat.xsd">
+  <queue_info>
+    <Queue-List>
+      <name>FLUIDSLAB@argon-lc-h21-17.hpc</name>
+      <qtype>BIPC</qtype>
+      <slots_used>56</slots_used>
+      <slots_resv>0</slots_resv>
+      <slots_total>56</slots_total>
+      <load_avg>26.22000</load_avg>
+      <arch>lx-amd64</arch>
+      <job_list state="running">
+        <JB_job_number>7082423</JB_job_number>
+        <JAT_prio>1.01139</JAT_prio>
+        <JB_name>BB2_VC</JB_name>
+        <JB_owner>pcarrica</JB_owner>
+        <state>hr</state>
+        <JAT_start_time>2019-03-31T08:41:38</JAT_start_time>
+        <slots>56</slots>
+      </job_list>
+    </Queue-List>
+    <Queue-List>
+      <name>FFME@argon-lc-h18-09.hpc</name>
+      <qtype>BIPC</qtype>
+      <slots_used>56</slots_used>
+      <slots_resv>0</slots_resv>
+      <slots_total>56</slots_total>
+      <load_avg>27.05000</load_avg>
+      <arch>lx-amd64</arch>
+      <job_list state="running">
+        <JB_job_number>7080533</JB_job_number>
+        <JAT_prio>0.51346</JAT_prio>
+        <JB_name>BB2_Deep</JB_name>
+        <JB_owner>ywang817</JB_owner>
+        <state>r</state>
+        <JAT_start_time>2019-03-30T08:18:01</JAT_start_time>
+        <slots>56</slots>
+      </job_list>
+    </Queue-List>
+  </queue_info>
+  <job_info>
+    <job_list state="pending">
+      <JB_job_number>6707552</JB_job_number>
+      <JAT_prio>0.28856</JAT_prio>
+      <JB_name>C3_s8.job</JB_name>
+      <JB_owner>roy</JB_owner>
+      <state>qw</state>
+      <JB_submission_time>2019-03-16T14:40:35</JB_submission_time>
+      <slots>20</slots>
+    </job_list>
+    <job_list state="pending">
+      <JB_job_number>6780803</JB_job_number>
+      <JAT_prio>0.28175</JAT_prio>
+      <JB_name>RunPerfBenchmarks.sh</JB_name>
+      <JB_owner>johnsonhj</JB_owner>
+      <state>qw</state>
+      <JB_submission_time>2019-03-18T13:19:39</JB_submission_time>
+      <slots>24</slots>
+    </job_list>
+    <job_list state="pending">
+      <JB_job_number>7082389</JB_job_number>
+      <JAT_prio>0.25348</JAT_prio>
+      <JB_name>Job.sh</JB_name>
+      <JB_owner>pratdas</JB_owner>
+      <state>qw</state>
+      <JB_submission_time>2019-03-31T01:26:39</JB_submission_time>
+      <slots>168</slots>
+    </job_list>
+    <job_list state="pending">
+      <JB_job_number>7178721</JB_job_number>
+      <JAT_prio>0.24798</JAT_prio>
+      <JB_name>gsnap_cmet_align_all</JB_name>
+      <JB_owner>alrfooh</JB_owner>
+      <state>qw</state>
+      <JB_submission_time>2019-04-01T10:04:19</JB_submission_time>
+      <slots>112</slots>
+    </job_list>
+    <job_list state="pending">
+      <JB_job_number>7320366</JB_job_number>
+      <JAT_prio>0.24156</JAT_prio>
+      <JB_name>CleanGhGeo</JB_name>
+      <JB_owner>cjcrain</JB_owner>
+      <state>qw</state>
+      <JB_submission_time>2019-04-03T06:21:24</JB_submission_time>
+      <slots>80</slots>
+    </job_list>
+    <job_list state="pending">
+      <JB_job_number>6394420</JB_job_number>
+      <JAT_prio>0.18394</JAT_prio>
+      <JB_name>PI5L1K_6f</JB_name>
+      <JB_owner>apramanik</JB_owner>
+      <state>qw</state>
+      <JB_submission_time>2019-03-04T14:24:38</JB_submission_time>
+      <slots>20</slots>
+    </job_list>
+    <job_list state="pending">
+      <JB_job_number>7329685</JB_job_number>
+      <JAT_prio>0.00000</JAT_prio>
+      <JB_name>j101_SyN_AtlasToSubjectANTsPreJointFusion_2004364_6th</JB_name>
+      <JB_owner>eunyokim</JB_owner>
+      <state>hqw</state>
+      <JB_submission_time>2019-04-03T09:06:49</JB_submission_time>
+      <slots>2</slots>
+    </job_list>
+    <job_list state="pending">
+      <JB_job_number>7341895</JB_job_number>
+      <JAT_prio>0.00000</JAT_prio>
+      <JB_name>AmberMDT3</JB_name>
+      <JB_owner>emihansen</JB_owner>
+      <state>qw</state>
+      <JB_submission_time>2019-04-03T11:37:52</JB_submission_time>
+      <slots>56</slots>
+    </job_list>
+  </job_info>
+</job_info>
